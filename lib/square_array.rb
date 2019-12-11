@@ -1,6 +1,5 @@
 def square_array(array)
   counter = 0
-  narray = []
   
   while counter < array.length do 
     narray = []
