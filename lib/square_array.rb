@@ -3,7 +3,7 @@ def square_array(array)
   narray = [1]
   
   while counter < array.length do 
-    narray.push(array[counter] ** 2)
+    puts narray.push(array[counter] ** 2)
     counter += 1
   end
   puts "I got here"
